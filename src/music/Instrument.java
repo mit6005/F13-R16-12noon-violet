@@ -4,7 +4,7 @@ package music;
  * Instrument represents a musical instrument.
  * 
  * These instruments are the 128 standard General 
- * MIDI Level 1 instruments.  SeeE
+ * MIDI Level 1 instruments.  See
  * http://www.midi.org/about-midi/gm/gm1sound.shtml.
  */
 public enum Instrument {
