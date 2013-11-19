@@ -21,6 +21,11 @@ public class Rest implements Music {
     }
     
     @Override
+    public double duration(){
+    	return this.duration;
+    }
+    
+    @Override
     public int hashCode() {
         final int prime = 31;
         int result = 1;
