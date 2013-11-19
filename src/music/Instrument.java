@@ -4,7 +4,7 @@ package music;
  * Instrument represents a musical instrument.
  * 
  * These instruments are the 128 standard General 
- * MIDI Level 1 instruments.  See
+ * MIDI Level 1 instruments.  SeeE
  * http://www.midi.org/about-midi/gm/gm1sound.shtml.
  */
 public enum Instrument {
@@ -139,7 +139,7 @@ public enum Instrument {
 
     TINKLE_BELL,
     AGOGO,
-    STEAL_DRUMS,
+    STEEL_DRUMS,
     WOODBLOCK,
     TAIKO_DRUM,
     MELODIC_TOM,
